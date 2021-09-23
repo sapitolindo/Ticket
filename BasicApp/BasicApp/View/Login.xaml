@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BasicApp.View.Login"
+             BackgroundColor="#36375c">
+    <StackLayout
+        x:Name="Loginframe"
+        Orientation="Vertical"
+        Margin="20,100,20,20">
+        <Label
+            Text="Unidad de Soporte"
+            HorizontalTextAlignment="Center"
+            TextColor="#f0f0ff"
+            FontSize="35"
+            FontFamily="SourceCodePro-MediumItalic"
+            FontAttributes="Bold"/>
+        <Frame
+            BackgroundColor="#f0f0ff"
+            CornerRadius="3">
+            <StackLayout
+                Orientation="Vertical"
+                Spacing="12">
+                <Entry
+                    x:Name="userName"
+                    Placeholder="Usuario"
+                    FontFamily="SourceCodePro-Medium"/>
+                <Entry
+                    Placeholder="Contraseña"
+                    FontFamily="SourceCodePro-Medium"/>
+                <Button
+                    Text="Ingresar"
+                    TextColor="#f0f0ff"
+                    CornerRadius="3"
+                    BackgroundColor="#bd8526"
+                    FontFamily="SourceCodePro-Medium"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

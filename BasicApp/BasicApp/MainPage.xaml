@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BasicApp.MainPage"
+             BackgroundColor="#e0e1ff">
+    <StackLayout
+        Orientation="Vertical"
+        Margin="20,100,20,20">
+        <Frame
+            BackgroundColor="#f4f0ff"
+            CornerRadius="5">
+            <StackLayout
+                Orientation="Vertical"
+                Spacing="12">
+                <Entry
+                    Placeholder="Usuario"/>
+                <Entry
+                    Placeholder="Contraseña"/>
+                <Button
+                    CornerRadius="5"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

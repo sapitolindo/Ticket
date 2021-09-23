@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\bin\Debug\netstandard2.0\BasicApp.deps.json
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\bin\Debug\netstandard2.0\BasicApp.dll
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\bin\Debug\netstandard2.0\ref\BasicApp.dll
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\bin\Debug\netstandard2.0\BasicApp.pdb
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\BasicApp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\BasicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\BasicApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\BasicApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\BasicApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\BasicApp.dll
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\ref\BasicApp.dll
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\BasicApp.pdb
+C:\Users\Acer\source\repos\BasicApp\BasicApp\BasicApp\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
